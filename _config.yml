@@ -14,6 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amalgam8.io" # the base hostname & protocol for your site
 github_username:  amalgam8
+slack_joinurl: "https://amalgam8-slackin.mybluemix.net"
 
 # Build settings
 markdown: kramdown
